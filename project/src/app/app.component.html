@@ -1,0 +1,4 @@
+<div class="app-component__slideshow-container" (mouseleave)="initTimeOut()" (mouseenter)="stopTimeOut()">
+    <slideshow-gallery [images]="images" *ngIf="images && images.length>0"></slideshow-gallery>
+</div>
+

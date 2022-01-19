@@ -1,0 +1,10 @@
+
+<div class="img-tabs__container">
+    <i class='fas fa-angle-left' (click)="moveLeft()"></i>
+    <div *ngFor="let image of displayedImages" (click)="emitSelectedImg(image)">
+        <img [src]="image.thumbnail_url">
+    </div>
+    <i class='fas fa-angle-right' (click)="moveRight()"></i>
+</div>
+
+

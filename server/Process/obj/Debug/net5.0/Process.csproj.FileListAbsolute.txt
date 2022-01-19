@@ -1,0 +1,17 @@
+C:\Users\lera\Desktop\task-proj\server\Process\bin\Debug\net5.0\Process.deps.json
+C:\Users\lera\Desktop\task-proj\server\Process\bin\Debug\net5.0\Process.dll
+C:\Users\lera\Desktop\task-proj\server\Process\bin\Debug\net5.0\ref\Process.dll
+C:\Users\lera\Desktop\task-proj\server\Process\bin\Debug\net5.0\Process.pdb
+C:\Users\lera\Desktop\task-proj\server\Process\bin\Debug\net5.0\DataAccess.dll
+C:\Users\lera\Desktop\task-proj\server\Process\bin\Debug\net5.0\DataModel.dll
+C:\Users\lera\Desktop\task-proj\server\Process\bin\Debug\net5.0\DataAccess.pdb
+C:\Users\lera\Desktop\task-proj\server\Process\bin\Debug\net5.0\DataModel.pdb
+C:\Users\lera\Desktop\task-proj\server\Process\obj\Debug\net5.0\Process.csproj.AssemblyReference.cache
+C:\Users\lera\Desktop\task-proj\server\Process\obj\Debug\net5.0\Process.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lera\Desktop\task-proj\server\Process\obj\Debug\net5.0\Process.AssemblyInfoInputs.cache
+C:\Users\lera\Desktop\task-proj\server\Process\obj\Debug\net5.0\Process.AssemblyInfo.cs
+C:\Users\lera\Desktop\task-proj\server\Process\obj\Debug\net5.0\Process.csproj.CoreCompileInputs.cache
+C:\Users\lera\Desktop\task-proj\server\Process\obj\Debug\net5.0\Process.csproj.CopyComplete
+C:\Users\lera\Desktop\task-proj\server\Process\obj\Debug\net5.0\Process.dll
+C:\Users\lera\Desktop\task-proj\server\Process\obj\Debug\net5.0\ref\Process.dll
+C:\Users\lera\Desktop\task-proj\server\Process\obj\Debug\net5.0\Process.pdb

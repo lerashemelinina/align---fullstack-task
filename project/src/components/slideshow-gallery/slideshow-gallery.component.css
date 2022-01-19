@@ -1,0 +1,36 @@
+.slideshow-gallery__outer-container {
+  /* height: 100%; */
+}
+
+.slideshow-gallery__selected-img {
+  /* height: calc(100% - 150px); */
+  position: relative;
+}
+
+.slideshow-gallery__author {
+  font-size: 36px;
+  background-color: black;
+  color: white;
+  text-align: center;
+  height: 60px;
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+
+.slideshow-gallery__selected-img img {
+  max-width: 100%;
+  max-height: 100%;
+}
+
+img-tabs {
+  /* height: 150px; */
+}
+
+.cursor {
+  cursor: pointer;
+}
+
+.slideshow-gallery__tabs-container {
+  margin-top: 10px;
+}

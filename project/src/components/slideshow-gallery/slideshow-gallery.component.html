@@ -1,0 +1,12 @@
+
+  <div class="slideshow-gallery__outer-container cursor">
+    <div class="slideshow-gallery__selected-img" (mouseenter)="showAuthor=true" (mouseleave)="showAuthor=false">
+      <img [src]="selectedImg.medium_size_url">  
+      <div *ngIf="showAuthor" class="slideshow-gallery__author">{{selectedImg.author}}</div>
+    </div>
+
+    <div class="slideshow-gallery__tabs-container">
+      <img-tabs [images]="images" (selectedImgEvent)="updateSelectedImg($event)" [maxNum]="maxNum"></img-tabs>
+    </div>
+  </div>
+

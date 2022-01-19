@@ -1,0 +1,21 @@
+.img-tabs__container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    height: 150px;
+}
+
+.img-tabs__container i {
+    font-size: 60px;
+    margin: auto 10px;
+}
+
+img {
+    transition: .2s;  
+    opacity: 0.8;
+}
+
+img:hover {
+    transform: scale(1.05);
+    opacity: 1;
+}

@@ -1,0 +1,15 @@
+C:\Users\lera\Desktop\task-proj\server\DataAccess\bin\Debug\net5.0\DataAccess.deps.json
+C:\Users\lera\Desktop\task-proj\server\DataAccess\bin\Debug\net5.0\DataAccess.dll
+C:\Users\lera\Desktop\task-proj\server\DataAccess\bin\Debug\net5.0\ref\DataAccess.dll
+C:\Users\lera\Desktop\task-proj\server\DataAccess\bin\Debug\net5.0\DataAccess.pdb
+C:\Users\lera\Desktop\task-proj\server\DataAccess\bin\Debug\net5.0\DataModel.dll
+C:\Users\lera\Desktop\task-proj\server\DataAccess\bin\Debug\net5.0\DataModel.pdb
+C:\Users\lera\Desktop\task-proj\server\DataAccess\obj\Debug\net5.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\lera\Desktop\task-proj\server\DataAccess\obj\Debug\net5.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lera\Desktop\task-proj\server\DataAccess\obj\Debug\net5.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\lera\Desktop\task-proj\server\DataAccess\obj\Debug\net5.0\DataAccess.AssemblyInfo.cs
+C:\Users\lera\Desktop\task-proj\server\DataAccess\obj\Debug\net5.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\lera\Desktop\task-proj\server\DataAccess\obj\Debug\net5.0\DataAccess.csproj.CopyComplete
+C:\Users\lera\Desktop\task-proj\server\DataAccess\obj\Debug\net5.0\DataAccess.dll
+C:\Users\lera\Desktop\task-proj\server\DataAccess\obj\Debug\net5.0\ref\DataAccess.dll
+C:\Users\lera\Desktop\task-proj\server\DataAccess\obj\Debug\net5.0\DataAccess.pdb
